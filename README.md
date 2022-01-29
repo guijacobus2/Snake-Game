@@ -1,22 +1,21 @@
 # Snake Game ![GitHub stars](https://img.shields.io/github/stars/guijacobus2/Snake-Game?style=social) ![GitHub forks](https://img.shields.io/github/forks/guijacobus2/Snake-Game?style=social) 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/guijacobus2/Snake-Game) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/guijacobus2/Snake-Game) ![GitHub issues](https://img.shields.io/github/issues-raw/guijacobus2/Snake-Game) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/guijacobus2/Snake-Game) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-Star ⭐ the repo if you like what you see 😉.
 
 ## 🛈 About
-SnakeGameFlutter is a recreation of the famous Snake Game that was present in Nokia mobiles. Created this game using Flutter.
+Snake Game is a Flutter recreation of the famous Snake Game from the old Nokias.
 
 ## 📸 Snapshots
 
 HomePage               |  GamePage               | GameOverPage               
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/snapshots/snapshot1.jpeg)|![](/snapshots/snapshot2.jpeg)|![](/snapshots/snapshot3.jpeg)|
+![](/snapshots/snapshot1)|![](/snapshots/snapshot2)|![](/snapshots/snapshot3)|
 
 ## 💻 Configuration Steps
 1. Cloning the repository:
 
 ```
-$ git clone https://github.com/ahmedgulabkhan/SnakeGameFlutter.git
+$ git clone https://github.com/guiajcobus2/Snake-Game.git
 ```
 
 2. Open the project:
