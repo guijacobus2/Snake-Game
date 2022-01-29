@@ -9,31 +9,31 @@ Snake Game is a Flutter recreation of the famous Snake Game from the old Nokias.
 
 HomePage               |  GamePage               | GameOverPage               
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/snapshots/snapshot1)|![](/snapshots/snapshot2)|![](/snapshots/snapshot3)|
+![](/snapshots/snapshot1.png)|![](/snapshots/snapshot2.png)|![](/snapshots/snapshot3.png)|
 
 ## 💻 Configuration Steps
 1. Cloning the repository:
 
 ```
-$ git clone https://github.com/guiajcobus2/Snake-Game.git
+$ git clone https://github.com/guijacobus2/Snake-Game.git
 ```
 
 2. Open the project:
 
-`$ cd SnakeGameFlutter`
+`$ cd Snake-Game`
 
 3. Now run the app on your connected device (using terminal):
 
 `$ flutter run`
 
 ## 🤓 Author(s)
-**Ahmed Gulab Khan** [Profile](https://github.com/ahmedgulabkhan)
+**Guilherme Jacobus** [Profile](https://github.com/guijacobus2)
 
 ## 🔖 License
 ```
 MIT License
 
-Copyright (c) 2020 Ahmed Gulab Khan
+Copyright (c) 2020 Guilherme Jacobus
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
